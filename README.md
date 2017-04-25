@@ -1,5 +1,5 @@
 This is an implementation of a Tesla Battery Range Calculator using React.
-Project based on the article and code by Matthew Choi "Building Tesla’s Battery Range Calculator with React" found [here] (https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee).
+Project based on the article and code by Matthew Choi "Building Tesla’s Battery Range Calculator with React" found [here](https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee).
 
 To see live production build, click [here](http://ugliest-paste.surge.sh/)
 
